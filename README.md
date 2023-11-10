@@ -1,2 +1,2 @@
-# SecurityCA1
+# SecurityCA
 A collection of message encrypters written in C++
