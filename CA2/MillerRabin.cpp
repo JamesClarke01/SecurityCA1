@@ -46,5 +46,6 @@ int main(void)
     } else {
         std::cout << "Composite";
     }
-       
+
+    return 0;       
 }
